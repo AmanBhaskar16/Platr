@@ -4,7 +4,7 @@
 ````markdown
 # 🍲 Platr
 
-![Platr Banner](https://source.unsplash.com/1600x400/?food,community,charity)
+![Platr Banner](https://www.ifco.com/media/IFCO_IG_Foodwaste_FastFacts_2021EN-1180x646.png)
 
 > **Platr** helps businesses reduce food waste and fight hunger by connecting surplus food with those who need it — donors, recipients, and volunteers, all on one platform.
 
@@ -246,23 +246,11 @@ Need help or want to collaborate?
 
 ---
 
-![Footer](https://source.unsplash.com/1200x250/?volunteer,food)
+![Footer](https://info.ehl.edu/hubfs/Blog-EHL-Insights/Blog-Header-EHL-Insights/AdobeStock_264542845.jpeg)
 
 ```
 
 ---
 
-### ✅ Next Steps
 
-To fully utilize this `README.md`, make sure you:
-- Replace `your-username`, `your-api-link`, and `your-email@example.com` with your actual info.
-- Upload a `LICENSE` file (MIT).
-- (Optional) Add a `swagger.json` or Postman collection for the API docs link.
-
-Let me know if you want:
-- A real logo for **Platr**
-- UI screenshots added
-- Badges for deployments or GitHub actions
-
-Would you like me to generate a sleek Platr logo for the top as well?
 ```
